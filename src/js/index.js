@@ -10,7 +10,20 @@ import { elements, renderLoader, clearLoader } from './modules/base';
 /* *************** Global State of the App ************** */
 
 const state = {};
-
+console.log(
+  '%c 👋 Oh, hi there, web lover!',
+  'color: #d74034; font-size:24px;'
+);
+console.log(
+  `%c✨ Like what you see? We could work together!
+  
+🐛 Found a bug? Please, let me know by e-mail, twitter, github issue...
+  
+🛠 Btw, this is open-source: https://github.com/damnitrahul/forkify
+  
+Let the debug begin!`,
+  'font-size:16px'
+);
 /* ****************** Search Controller ***************** */
 
 const controlSearch = async () => {
