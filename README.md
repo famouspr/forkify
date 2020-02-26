@@ -1,4 +1,4 @@
-![Forkify Logo](/dist/img/logo.png)
+![Forkify Logo](/dist/img/logo.png =200x)
 # forkify - Fork Your Recipes
 
 Vanilla JS Receipe App
