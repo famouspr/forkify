@@ -1,4 +1,5 @@
-![Forkify Logo](/dist/img/logo.png =200x100)
+<img src='/dist/img/logo.png' alt='Forkify Logo' width='200' />
+
 # forkify - Fork Your Recipes
 
 Vanilla JS Receipe App
