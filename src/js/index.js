@@ -11,17 +11,19 @@ import { elements, renderLoader, clearLoader } from './modules/base';
 
 const state = {};
 console.log(
-  '%c 👋 Oh, hi there, web lover!',
+  '%c 👋 Oh, hi there, curious web lover!',
   'color: #d74034; font-size:24px;'
 );
 console.log(
-  `%c✨ Like what you see? We could work together!
+  `%c ✨ Like what you see? We could work together!
   
-🐛 Found a bug? Please, let me know by e-mail, twitter, github issue...
+  🐛 Found a bug? Please, let me know by e-mail, twitter, github issue...
   
-🛠 Btw, this is open-source: https://github.com/damnitrahul/forkify
-  
-Let the debug begin!`,
+  🛠 Btw, this is open-source: https://github.com/damnitrahul/forkify
+
+  Let the debug begin!
+
+  Bonus meme: https://i.imgur.com/Cw7KIM1.jpg`,
   'font-size:16px'
 );
 /* ****************** Search Controller ***************** */
